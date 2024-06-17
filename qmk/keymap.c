@@ -25,15 +25,15 @@ enum layers{
 #define KC_FLXP G(KC_E)
 // Left-hand home row mods
 #define HOME_A LGUI_T(KC_A)
-#define HOME_O LALT_T(KC_O)
-#define HOME_E LSFT_T(KC_E)
-#define HOME_U LCTL_T(KC_U)
+#define HOME_S LALT_T(KC_S)
+#define HOME_D LSFT_T(KC_D)
+#define HOME_F LCTL_T(KC_F)
 
 // Right-hand home row mods
-#define HOME_H RCTL_T(KC_H)
-#define HOME_T RSFT_T(KC_T)
-#define HOME_N LALT_T(KC_N)
-#define HOME_S RGUI_T(KC_S)
+#define HOME_J RCTL_T(KC_H)
+#define HOME_K RSFT_T(KC_T)
+#define HOME_L LALT_T(KC_N)
+#define HOME_SCLN RGUI_T(KC_SCLN)
 
 
 // clang-format off
